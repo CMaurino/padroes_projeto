@@ -11,4 +11,5 @@
 5. Pela definição de alguns dos passos de um algoritmo usando operações abstratas, o método template fixa a sua ordem, mas deixa as subclasses de Application e Document variarem aqueles passos necessários para atender suas necessidades.
 
 ![Imagem](imagem.png)
+
 [Exemplo de código](sample.java)
