@@ -17,6 +17,6 @@ As classes e objetos participantes nesse padrão são:
 Por exemplo, em interfaces gráficas, um elemento gráfico pode ser formado pela composição de vários outros elementos. Uma página de internet pode conter um ou mais ícones, além de caixas de texto e vários outros elementos. Considerando que uma determinada hierarquia de classes indica um Elemento Gráfico como, portanto, a super-classe—comum à todas classes que representam elementos gráficos atômicos. Assim, a "página" pode ser representada tanto como uma classe que contém zero ou mais elementos gráficos.
 
 Diagrama de exemplo:
-![Diagrama](padroes_projeto/ElementoGrafico.jpg)
+![Diagrama](ElementoGrafico.jpg)
 
-[Código de exemplo](padroes_projeto/sample.java)
+[Código de exemplo](sample.java)
