@@ -1,1 +1,3 @@
-teste
+# Composite
+
+## Pattern Name and Classification
